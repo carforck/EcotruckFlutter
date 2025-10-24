@@ -12,6 +12,13 @@ dependencies:
   meta: ^1.16.0
   material_color_utilities: ^0.11.1
 
+  # Mapa para Android/iOS
+  google_maps_flutter: ^2.5.0
+
+  # Mapa para Web
+  flutter_map: ^6.0.0
+  latlong2: ^0.9.0
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
@@ -22,3 +29,4 @@ flutter:
   assets:
     - assets/fondo_ecotruck.png
     - assets/logo_ecotruck.png
+    - assets/Perfil_Carlos.jpg
